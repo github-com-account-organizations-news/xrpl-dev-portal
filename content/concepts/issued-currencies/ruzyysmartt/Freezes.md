@@ -188,9 +188,102 @@ Example JavaScript (ECMAScript 6) code to enable Global Freeze on an address:
 
 ```js
 {% include '_code-samples/freeze/set-global-freeze.js' %}
-```
 
+```my account(ruzyysmartt)
+rU2mEJSLqBRkYLVTv55rFTgQajkLTnT6mA
+Dashboard
+Active Accounts
+XRP 
+Accounts
+Transactions
 
+OfferCancelOffer 23661468 cancelled✓
+OfferCancelOffer 23661477 cancelled✓
+OfferCancelOffer 23661476 cancelled✓
+OfferCancelOffer 23661467 cancelled✓
+Payment20,000 XCN sent to rNXQc5mT7b336bFTkenFTPiF5TYuyrJ3ZHx
+OfferCreatesell 18,552.98362 XRP @ 1.9158 XRP/CNYx
+OfferCreatesell 10,138.336844 XRP @ 1.8748 XRP/CNYx
+OfferCreatesell 17,217.925107 XRP @ 1.8338 XRP/CNYx
+OfferCreatesell 13.135587 XRP @ 1.7928 XRP/CNYx
+Payment10,000 XCN sent to rKLpjpCoXgLQQYQyj13zgay73rsgmzNH13x
+Payment2,400 YCN sent to r9x5PHDiwuvbpYB3uvGAqEUVV5wxHayQExx
+Payment10,000 CNT sent to r96HghtYDxvpHNaru1xbCQPcsHZwqiaENEx
+Payment5,001 ZCN sent to rf3B8KcYqKMgybB2ms9KcLhcB8bWX1UDovx
+Payment0.000213 XRP sent to rn5dCW71ttFiM4oV9tt4ejg6QrWRMX92WS✓
+OfferCreatesell 11,391.967931 XRP @ 1.924 XRP/CNY✓
+OfferCreatesell 7,877.414016 XRP @ 1.883 XRP/CNY✓
+Payment0.000189 XRP sent to rfjj3T8A1e6hnArNHRSCnKW6qxZX62B4x1✓
+Payment0.00012 XRP sent to rPy3TtRKMUX7G5zqniDF4TFsW1EPCMRAaW✓
+OfferCreatebuy 23,040.68 CNY @ 1.6208 XRP/CNY✓
+OfferCreatebuy 49,801.167 CNY @ 1.6618 XRP/CNY✓
+OfferCreatebuy 36,722.94 CNY @ 1.7028 XRP/CNY✓
+OfferCreatebuy 16,007.148 CNY @ 1.7438 XRP/CNY✓
+Payment0.000131 XRP sent to rJXf7jn2qS7UQCB7dd3Ub74y6iAsHAsgHq✓
+Payment0.000299 XRP sent to rKEGYFFy4tiFqvxzJGgTjuLuRNHCMbvD9N✓
+Payment0.000262 XRP sent to rKCHvy7mzDyjuTzGJWnd4ngpjdmKNBt142✓
+Payment0.000222 XRP sent to rWuwjeVJP93G9ayMyaDpcMhg4WumDJJr2✓
+OfferCreatebuy 8,664.603 CNY @ 1.6126 XRP/CNY✓
+OfferCreatebuy 4,483.8256 CNY @ 1.6536 XRP/CNY✓
+OfferCreatebuy 30,714.354 CNY @ 1.6946 XRP/CNY✓
+OfferCreatebuy 44,751.165 CNY @ 1.7356 XRP/CNY✓
+OfferCreatesell 1,864.124306 XRP @ 1.9486 XRP/CNY✓
+OfferCreatesell 16,128.690727 XRP @ 1.9076 XRP/CNY✓
+OfferCreatesell 5,623.300847 XRP @ 1.8666 XRP/CNY✓
+OfferCreatesell 1,085.168349 XRP @ 1.8256 XRP/CNY✓
+Payment0.00013 XRP sent to rac4DvtZf7GweVV9xKi8G31JUum1adnSnp✓
+Payment0.000162 XRP sent to rhKZgbEvbCktyMfJm4KEEHEwiSP8B3dd5x✓
+Payment0.000174 XRP sent to rHiKBQ9b5PkL7nGvRGX4syFaQSPpVwp4Uu✓
+OfferCreatebuy 43,769.394 CNY @ 1.5962 XRP/CNY✓
+OfferCreatebuy 33,149.14 CNY @ 1.6372 XRP/CNY✓
+OfferCreatebuy 36,509.734 CNY @ 1.6782 XRP/CNY✓
+OfferCreatebuy 842.19193 CNY @ 1.7192 XRP/CNY✓
+Payment0.000266 XRP sent to rNVALNxi27Svg5TepU4teReC8rDBVatRnU✓
+Payment0.000188 XRP sent to rL6byYtZUReiTxzpaQ9MoKxtNLsc5s5fWk✓
+Payment2,000 GCB sent to rHaans8PtgwbacHvXAL3u6TG28gTAtCwr8x
+Payment10,000 CNT sent to r96HghtYDxvpHNaru1xbCQPcsHZwqiaENEx
+Payment5,001 ZCN sent to rf3B8KcYqKMgybB2ms9KcLhcB8bWX1UDovx
+Payment2,400 YCN sent to r9x5PHDiwuvbpYB3uvGAqEUVV5wxHayQExx
+Payment20,000 XCN sent to rNXQc5mT7b336bFTkenFTPiF5TYuyrJ3ZHx
+Payment10,000 XCN sent to rKLpjpCoXgLQQYQyj13zgay73rsgmzNH13x
+OfferCreatesell 19,910.708652 XRP @ 1.9158 XRP/CNYx
+056248C24A966D1190D79F6025F5D9A8E4C36912FAB5E12908114DA07A269A86
+ GO
+DESCRIPTIONRAW
+ Object
+hash: "056248C24A966D1190D79F6025F5D9A8E4C36912FAB5E12908114DA07A269A86"
+ledger_index: 53187846
+date: "2020-02-03T21:40:41+00:00"
+ tx: Object
+TransactionType: "Payment"
+Flags: 2147942400
+Sequence: 8452804
+LastLedgerSequence: 53187847
+ Amount: Object
+value: "10000"
+currency: "XCN"
+issuer: "rPFLkxQk6xUGdGYEykqe7PR25Gr7mLHDc8"
+Fee: "11"
+SendMax: "10000000000"
+SigningPubKey: "030AC4F2BA6E1FF86BEB234B639918DAFDF0675032AE264D2B39641503822373FE"
+TxnSignature: "304402205527DF4EF390620069B760CE6F37CD4EACB419C9F7862D2295A962CEBBDA631A022038D7F1091BCD86159027DC4D8FB1FB9F98A81FFE6B0A961CF704D5057D795726"
+Account: "rKLpjpCoXgLQQYQyj13zgay73rsgmzNH13"
+Destination: "rKLpjpCoXgLQQYQyj13zgay73rsgmzNH13"
+ Paths: Array [6]
+ 0: Array [4]
+ 1: Array [4]
+ 2: Array [4]
+ 3: Array [4]
+ 4: Array [4]
+ 5: Array [4]
+ meta: Object
+TransactionIndex: 38
+ AffectedNodes: Array [1]
+ 0: Object
+TransactionResult: "tecPATH_DRY"
+XRP Charts provides information based on public data.
+Information is provided "as is" and solely for informational purposes only. XRP Charts is not a trading advisor. Ripple does not endorse, recommend, or make any representations with respect to the gateways and exchanges that appear on XRP Charts. Data may be delayed or incorrect. Ripple reserves the right not to include transactions in XRP Charts that it believes are not bona fide, e.g., wash sales where there is no change in beneficial ownership.
+Ripple.com · Blog · Privacy Policy · Terms of Service · Github · v2.4.2
 
 ## Enabling No Freeze
 
